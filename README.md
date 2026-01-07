@@ -1,4 +1,5 @@
 # QRGenPro
+<<<<<<< HEAD
 
 **Professional QR Code Generator** - A modern, feature-rich desktop application for creating customizable QR codes.
 
@@ -193,3 +194,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ for the QR code community**
+=======
+QRGenPro is a fast, offline Python desktop app for generating QR codes with a clean UI and reliable performance. It focuses on simplicity, portability, and stability, making it easy for anyone to create and export QR codes without internet access or external dependencies.
+>>>>>>> 7ef65c849e4b39819997834bd5c99e6977f2dd29
