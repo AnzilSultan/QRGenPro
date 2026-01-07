@@ -1,6 +1,4 @@
 # QRGenPro
-<<<<<<< HEAD
-
 **Professional QR Code Generator** - A modern, feature-rich desktop application for creating customizable QR codes.
 
 ![QRGenPro](assets/screenshot_placeholder.png)
