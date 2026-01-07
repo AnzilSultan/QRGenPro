@@ -1,0 +1,10 @@
+# QRGenPro - Professional QR Code Generator
+# Python 3.10+ required
+
+# Core dependencies
+PySide6>=6.5.0
+Pillow>=10.0.0
+qrcode[pil]>=7.4.0
+
+# Build dependencies (optional, for creating executables)
+# pyinstaller>=6.0.0
