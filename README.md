@@ -1,7 +1,7 @@
 # QRGenPro
 **Professional QR Code Generator** - A modern, feature-rich desktop application for creating customizable QR codes.
 
-![QRGenPro](assets/screenshot_placeholder.png)
+![QRGenPro](assets/logo.png)
 
 ## Features
 
@@ -19,7 +19,9 @@
 
 ## Screenshots
 
-> Add screenshots here showing the application interface
+![QRGenPro](assets/screenshot.png)
+![QRGenPro](assets/screenshot2.png)
+![QRGenPro](assets/screenshot3.png)
 
 ## Installation
 
